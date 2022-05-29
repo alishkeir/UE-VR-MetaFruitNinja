@@ -1,10 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
-		"WindowsNoEditor"
+		"Android",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
